@@ -4,5 +4,5 @@ jobs:
   hello_world_job:
     runs-on: ubuntu-latest
     steps:
-      - name: Hello World
+      - name: Hello Udit Action
         run: echo "Hello Udit, Your actions are working as expected"
