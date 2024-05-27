@@ -1,7 +1,7 @@
 name: hello Greet
 on: push
 jobs:
-  hello_world_job:
+  hello_greet_job:
     runs-on: ubuntu-latest
     steps:
       - name: Hello Udit Action
